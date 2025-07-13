@@ -19,8 +19,8 @@ Welcome to my GitHub! I'm a Python developer passionate about data science, mach
 
 | Category            | Technologies & Concepts                          |
 |---------------------|--------------------------------------------------|
-| **Languages**        | Python, SQL                                      |
-| **Libraries**        | NumPy, Pandas, Plotly                            |
+| **Languages**        | HTML, CSS, Python, SQL,                          |
+| **Libraries**        | NumPy, Pandas, Plotly, Flask                     |
 | **Concepts**         | DSA, Machine Learning, Data Visualization        |
 | **Tools**            | Power BI, Microsoft Excel, Jupyter Notebook      |
 | **Practices**        | Clean Code, Modular Design, CLI Development      |
